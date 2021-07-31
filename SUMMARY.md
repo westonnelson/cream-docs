@@ -1,22 +1,15 @@
 # Table of contents
 
-* [C.R.E.A.M. Finance](README.md)
-* [Flash Loans](flash-loans.md)
+* [Introduction](README.md)
 
-## Lending
+## Iron Bank
 
-* [Lending Contract Address](lending/lending-contract-address.md)
-* [Collateral Factor & Reserve Factor](lending/collateral-factor-and-reserve-factor.md)
-* [Interest Rate Model](lending/interest-rate-model.md)
-* [Price Oracle](lending/price-oracle.md)
+* [Iron Bank Contract Address](iron-bank/iron-bank.md)
+* [Collateral & Reserve Factor](iron-bank/collateral-and-reserve-factor.md)
+* [Interest Rate Model](iron-bank/interest-rate-model.md)
+* [Price Oracle](iron-bank/price-oracle.md)
 
-## Developer
+## Flash Loans <a id="flash-loans-1"></a>
 
-* [Developer](https://docs.cream.finance/developer/crtokens)
-* [Data API](https://api.cream.finance/api/documentations/)
-* [Subgraph \(GraphQL\)](https://thegraph.com/explorer/subgraph/creamfinancedev/cream-bsc)
-
----
-
-* [Give Feedback](https://forum.cream.finance/c/site-feedback/2)
+* [Flash Loans](flash-loans-1/flash-loans.md)
 
