@@ -1,6 +1,6 @@
 # Collateral & Reserve Factor
 
-The reserve factor is the percentage of Fee paid to CREAM protocol. If the reserve factor is 10, then that would imply that 10% of the interest paid on the asset is for CREAM.
+The reserve factor is the percentage of fee paid to protocol. If the reserve factor is 10, then that would imply that 10% of the interest paid on the asset is for the protocol.
 
 In the other hand, the collateral factor is the maximum you can borrow on a particular asset.
 
@@ -34,6 +34,3 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | FRAX | 0% | 10% |
 | ibEUR | 0% | 10% |
 | EURt | 0% | 10% |
-
-
-
